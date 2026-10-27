@@ -1,0 +1,6 @@
+{
+  "name": "Real-Time Cyber Threat Intelligence System",
+  "description": "High-performance network packet scanner and cyber threat intelligence platform utilizing Aho-Corasick, KMP, and Rabin-Karp string matching algorithms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
